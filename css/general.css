@@ -105,9 +105,8 @@ h2 {
 .billboard {
     overflow: hidden;
     background-image: url(../images/billboard.jpg);
-    background-color: black;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-size: 130%;
 }
 
