@@ -107,7 +107,7 @@ h2 {
     background-image: url(../images/billboard.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 130%;
+    background-size: auto;
 }
 
 figure {
