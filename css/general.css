@@ -78,7 +78,7 @@ header {
 .logo {
     height: 3.5rem;
     width: center;
-    background-color: #FFC;
+    background-color: #CC9;
     padding: .5rem 5%;
 }
 
@@ -108,7 +108,7 @@ h2 {
     background-color: black;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 130%;
+    background-size: 40rem;
 }
 
 figure {
