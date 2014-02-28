@@ -59,6 +59,10 @@ body {
     color: #300
 }
 
+hr {
+    border: solid 1.5px #630;
+}
+
 h1 {
     margin: 6rem 0 6rem;
     background-color: rgba(217, 237, 178, .8);
